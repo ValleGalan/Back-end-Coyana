@@ -1,6 +1,6 @@
 const mongoose = require('mongoose')
 
-
+//este es de e-comerce
 const userSchema = new mongoose.Schema({
     name : String,
     email : {
